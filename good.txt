@@ -1,2 +1,4 @@
-aaaa
-bbbbb
+bbbmaster
+bbbfeature
+test mixed
+after mixed
